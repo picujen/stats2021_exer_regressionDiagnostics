@@ -301,7 +301,7 @@ Similar to the Added Variable plot, but may be more helpful in identifying non-l
 # relationship other than linear.
 crPlots(model.3, 'Adverts')
 crPlots(model.3, 'Airplay')
-crPlots(model.3, "Image")
+crPlots(model.3, 'Image')
 ```
 
 
